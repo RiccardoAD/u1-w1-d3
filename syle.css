@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    width: 200px;
+    margin: 1rem 0;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.content{
+    width: 50%;
+     text-align: left;
+    margin: auto;
+}
+
+.content img {
+    width: 100%;
+    border-radius: 10px;
+    text-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2)  ;
+   
+    
+  }
+.author {
+    display: block;
+    color:grey;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+.featured{
+    border-left: 2px solid #ffd977 ;
+    padding-left: 1rem;
+    margin-top: 4rem;
+}
+.featured span {
+
+  color: #d35313;
+  display: block
+}
+.featured a, .link {
+    color: aqua;
+
+}
+.ingredients p, ol li p  {
+    font-weight: bold;
+
+}
+.ingredients {
+    margin-top: 4rem;
+}
+h2{
+    font-weight: 100;
+}
+.section-main{
+    border-bottom: 2px solid rgb(197,243,243);
+    margin-bottom: 2rem;
+
+}
+ul {
+    margin-bottom: 2rem;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+  .titolo {
+    background-color: #fefbf1;
+    border-top: 2px solid #ffd977;
+    color:#004d4d;
+    padding: 1rem 0;
+    margin-bottom: 5rem;
+    font-size: 0,7rem;
+  }
+  div span span {
+    font-weight: 500;
+  }
+  .bowl p{
+    font-weight: 300;
+  }
